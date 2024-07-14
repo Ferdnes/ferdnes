@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvimento Web (Frint-End), Análise de Dados e  Inteligência Artificial 
 - 🌱  React e Node Js 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 
 
