@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvimento Web (Frint-End), Análise de Dados e  Inteligência Artificial 
+- 🔭 Desenvolvimento Web (Front-End), Análise de Dados e  Inteligência Artificial 
 - 🌱  React e Node Js 
 - 😄 Pronomes: ela/dela
 
